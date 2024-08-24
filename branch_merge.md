@@ -1,7 +1,7 @@
 # <__Топ лучших футбольных лиг__>
 
 ## _Английсская премьер лига_
-! [](0d21021df4a497857bba7aaf67091b1d)
+![](0d21021df4a497857bba7aaf67091b1d)
 ### Топ 5 команд:
 1.Манчестер Сити
 
@@ -58,7 +58,7 @@
 
 
 ## _Лига 1_
-! [](photo.webp)
+! [](https://steamuserimages-a.akamaihd.net/ugc/771720663260679513/3B8AF0C438DB3FC3884015357E0F98C8C95A8E26/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 ### Топ 5 команд:
 1.ПСЖ
 
